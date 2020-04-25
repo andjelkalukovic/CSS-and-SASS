@@ -6,3 +6,7 @@ An example of the single-page responsive website of a financial company. There a
 Simple responsive dropdown menu.
 ## Hamburger menu
 An example of a responsive hamburger menu with animation. On click, the hamburger menu is transformed into X, and it rotates on hover.
+## Hotel website
+An example of a responsive website of a hotel with "Home", "About" and "Contact" pages.
+## Knowledge resume
+Responsive website of knowledge resume with the transition when scrolling.
