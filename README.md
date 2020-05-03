@@ -8,5 +8,7 @@ Simple responsive dropdown menu.
 An example of a responsive hamburger menu with animation. On click, the hamburger menu is transformed into X, and it rotates on hover.
 ## Hotel website
 An example of a responsive website of a hotel with "Home", "About" and "Contact" pages.
+##NewsGrid website
+An example of a responsive news site using a grid to position each article. The site has the "Home", "About", and "Article" pages. The logo was done in PhotoShop.
 ## Knowledge resume
 Responsive website of knowledge resume with the transition when scrolling.
