@@ -9,6 +9,8 @@ An example of a responsive hamburger menu with animation. On click, the hamburge
 ## Hotel website
 An example of a responsive website of a hotel with "Home", "About" and "Contact" pages.
 ## Knowledge resume
-Responsive website of knowledge resume with the transition when scrolling.
+Responsive website of knowledge resume with the transition when scrolling that has done in JavaScript.
 ## NewsGrid website
 An example of a responsive news site using a grid to position each article. The site has the "Home", "About", and "Article" pages. The logo was done in PhotoShop.
+## Presentation website
+An example of a presentation website with animation and transition that have done in jQuery.
